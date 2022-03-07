@@ -1,0 +1,14 @@
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\bin\Debug\StudentSystemManagement.exe.config
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\bin\Debug\StudentSystemManagement.exe
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\bin\Debug\StudentSystemManagement.pdb
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.csprojAssemblyReference.cache
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.Properties.Resources.resources
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.csproj.GenerateResource.cache
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.exe
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.pdb
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.GUI.AddAndEditStudentForm.resources
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.GUI.ListStudentForm.resources
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.GUI.AcademicStaffForm.resources
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.GUI.LoginForm.resources
+C:\Users\hungm\source\repos\StudentSystemManagement\StudentSystemManagement\obj\Debug\StudentSystemManagement.GUI.EditScoreForm.resources
